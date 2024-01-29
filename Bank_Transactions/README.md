@@ -1,6 +1,6 @@
 # Bank Transactions
 
-This project contains a Solidity smart contract for bank transactions.
+This project contains Solidity smart contracts for bank transactions.
 
 ## Functions
 
